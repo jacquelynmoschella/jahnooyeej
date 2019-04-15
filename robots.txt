@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chookeing.polytrope.com/sitemap.xml
